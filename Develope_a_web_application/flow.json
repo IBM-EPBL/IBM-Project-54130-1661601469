@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1053dc04635fe13b",
+        "type": "ibmiot in",
+        "z": "24f4ec8322360e95",
+        "authentication": "quickstart",
+        "inputType": "evt",
+        "logicalInterface": "",
+        "ruleId": "",
+        "deviceId": "",
+        "applicationId": "",
+        "deviceType": "",
+        "eventType": "",
+        "commandType": "",
+        "format": "",
+        "name": "IBM IoT",
+        "service": "",
+        "allDevices": "",
+        "allApplications": "",
+        "allDeviceTypes": "",
+        "allLogicalInterfaces": "",
+        "allEvents": "",
+        "allCommands": "",
+        "allFormats": "",
+        "qos": 0,
+        "x": 150,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    }
+]
