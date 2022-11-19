@@ -17,6 +17,9 @@ DEMO LINK : https://youtu.be/2wocZB1iMxQ
 node red :  https://node-red-wjldy-2022-11-05.au-syd.mybluemix.net/ui/#!/1?socketid=Y0yN68Pkfll5mSlWAADL
 
 
+Wokwi Project Link :  https://wokwi.com/projects/347376419979919956
+
+
 	
 	
  
